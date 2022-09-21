@@ -6,7 +6,7 @@
 # authors: Matthew Wilkin
 # url: https://github.com/discourse/discourse-linkedin-auth
 
-gem 'omniauth-linkedin-oauth2', '1.0.0'
+gem 'omniauth-telegram', '1.0.0'
 
 register_svg_icon "fab-linkedin"
 
